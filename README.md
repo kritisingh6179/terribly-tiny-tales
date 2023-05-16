@@ -19,9 +19,10 @@ Chart.js is a popular JavaScript library used for creating flexible charts on we
 3.react-csv=
 Build CSV files on the fly basing on Array/literal object of data
 
-output:-![a](https://github.com/kritisingh6179/terribly-tiny-tales/assets/77061475/fcec79dc-ecc8-463c-834d-2b4d6ab9b775)
+output:-
+![a](https://github.com/kritisingh6179/terribly-tiny-tales/assets/77061475/fcec79dc-ecc8-463c-834d-2b4d6ab9b775)
 after clicking submit
 ![image](https://github.com/kritisingh6179/terribly-tiny-tales/assets/77061475/3f1ca4c9-1807-442d-a176-8a24405d3f0c)
-
-
+on clicking export
+![image](https://github.com/kritisingh6179/terribly-tiny-tales/assets/77061475/87e800ea-7d52-4774-9e18-98d52f0777f8)
 
